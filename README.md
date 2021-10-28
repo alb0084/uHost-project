@@ -1,2 +1,1 @@
-# cssWORK# website pure CSS.
-# alb0084-uHost-css-project
+#project Website pure CSS.
